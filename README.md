@@ -2,6 +2,6 @@
 
 <h1>Installation</h1>
 
-<code>composer update</code>
-<code>composer install</code>
+<code>composer update</code><br />
+<code>composer install</code><br />
 <code>php artisan migrate</code>
